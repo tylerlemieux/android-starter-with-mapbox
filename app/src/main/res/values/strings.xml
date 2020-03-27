@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidHlsZXJsZW1pZXV4IiwiYSI6ImNrN3lvb2w3ZjA4cnIzZnBnbnh5ajkzcGoifQ.yVBCNyjVZ4fNE3-4FRhLhQ</string>
+
+    <string name="title_activity_game">Home</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

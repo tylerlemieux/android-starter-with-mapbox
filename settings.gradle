@@ -1,0 +1,2 @@
+rootProject.name='Parallel Rebirth'
+include ':app'
